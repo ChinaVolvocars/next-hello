@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6b86ed2-f40e-448f-bb1b-e76addd5f420" name="Changes" comment="Initial commit from Create Next App">
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/analytics/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/analytics/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/next/dist/compiled/@next/font/dist/google/index.d.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RY5iy8Tawp5oGssuk5c4fapR6h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Color/Desktop/nextjs-tutorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "stylesheet.code.style.group",
+    "ts.external.directory.path": "C:\\Users\\Color\\WebstormProjects\\next-hello\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Color\WebstormProjects\next-hello\src\app" />
+      <recent name="C:\Users\Color\WebstormProjects\next-hello" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6b86ed2-f40e-448f-bb1b-e76addd5f420" name="Changes" comment="" />
+      <created>1687414304824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687414304824</updated>
+      <workItem from="1687414306117" duration="146000" />
+      <workItem from="1687435842952" duration="2119000" />
+      <workItem from="1687486436855" duration="6783000" />
+      <workItem from="1687615769448" duration="1275000" />
+      <workItem from="1687779992648" duration="664000" />
+      <workItem from="1687781349435" duration="594000" />
+      <workItem from="1688393760632" duration="593000" />
+      <workItem from="1688440983636" duration="790000" />
+      <workItem from="1688654135306" duration="592000" />
+      <workItem from="1688695544349" duration="1352000" />
+      <workItem from="1689162133036" duration="643000" />
+      <workItem from="1689258190318" duration="640000" />
+      <workItem from="1689340566681" duration="463000" />
+      <workItem from="1689390289048" duration="2379000" />
+      <workItem from="1689514364965" duration="1863000" />
+      <workItem from="1689763050168" duration="3478000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit from Create Next App">
+      <option name="closed" value="true" />
+      <created>1689765391746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689765391746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit from Create Next App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit from Create Next App" />
+  </component>
+</project>
