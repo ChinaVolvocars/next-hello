@@ -9,6 +9,7 @@ export default function Page() {
   return (
     <>
       <h1>hello dashboard page</h1>
+      <text className="border-gray-500 text-amber-500 text-5xl">希捷硬盘</text>
       <div>
         <Link href="/dashboard/analytics">Analytics</Link>
         <Link href="/dashboard/setting">
