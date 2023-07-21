@@ -1,5 +1,6 @@
 import Link from "next/link";
 import {Metadata} from "next";
+import {Suspense} from "react";
 
 export const metadata: Metadata = {
   title: 'Dashboard',
@@ -16,6 +17,15 @@ export default function Page() {
           <p className="text-amber-500 text-blue-400">设置页面</p>
         </Link>
       </div>
+
+      <section>
+        <Suspense fallback={<p>Loading feed...</p>}>
+          <h1> PostFeed </h1>
+        </Suspense>
+        <Suspense fallback={<p>Loading weather...</p>}>
+          <h1> Weather </h1>
+        </Suspense>
+      </section>
     </>
   )
 }
